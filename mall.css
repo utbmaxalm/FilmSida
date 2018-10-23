@@ -1,0 +1,24 @@
+body {
+  background-color: #797E9D;
+}
+
+h1 {
+  font-size: 1.7em;
+  color: #1E275F;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  color: #B2B5C3;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: 250px;
+}
